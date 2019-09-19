@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="poster">poster</string>
+    <string name="movieName">movies_name</string>
+    <string name="movieReleaseDate">release_date</string>
+    <string name="movieGenre">genre</string>
+    <string name="description">description</string>
+    <string name="rating">Rating</string>
+</resources>
